@@ -26,6 +26,7 @@ body {
 }
 
 .header__container svg {
+  /* width: 134px; */
   margin: 62px auto;
   display: block;
 }
@@ -104,10 +105,7 @@ input[type="submit"] {
   color: #121725;
   font-weight: 600;
 }
-#submit:hover{
-  background-color: #B3FFE2;
-  ;
-}
+
 input.submitDocs {
   width: 100%;
   padding: 10px;
@@ -212,8 +210,6 @@ footer {
     bottom: -180px;
     z-index: 1;
   }
-
-
   footer {
     display: block;
     position: absolute;
