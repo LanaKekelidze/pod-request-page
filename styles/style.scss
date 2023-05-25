@@ -26,7 +26,7 @@ body {
 }
 
 .header__container svg {
-    /* width: 134px; */
+   
     margin: 62px auto;
     display: block;
 
@@ -68,19 +68,19 @@ p {
 }
 
 img.spotify {
-    width: 17.2% // 56px;
+    width: 17.2% 
 }
 
 img.apple {
-    width: 14% // 45px;
+    width: 14% 
 }
 
 img.google {
-    width: 22.28% // 73px;
+    width: 22.28% 
 }
 
 img.pocket {
-    width: 23.5% // 77px;
+    width: 23.5% 
 }
 
 input[type="submit"],
@@ -209,9 +209,6 @@ footer {
         background-color: #121725;
         bottom: -180px;
         z-index: 1;
-        // background-image: url("../assets/desktop/bg-pattern-dots.svg");
-        // background-repeat: no-repeat;
-        // background-position: 0% 100%;
     }
 
     footer {
